@@ -1,0 +1,1615 @@
+-DOCSTART- -X- O
+budi -X- _ B-PER
+pergi -X- _ O
+ke -X- _ O
+jakarta -X- _ B-LOC
+pada -X- _ O
+pukul -X- _ O
+10 -X- _ B-TIME
+00 -X- _ B-TIME
+
+siti -X- _ B-PER
+bekerja -X- _ O
+di -X- _ O
+pt -X- _ B-ORG
+maju -X- _ I-ORG
+jaya -X- _ I-ORG
+sejak -X- _ O
+tahun -X- _ O
+2020 -X- _ B-DATE
+
+agus -X- _ B-PER
+lahir -X- _ O
+di -X- _ O
+surabaya -X- _ B-LOC
+pada -X- _ O
+1 -X- _ B-DATE
+januari -X- _ I-DATE
+2000 -X- _ I-DATE
+
+ani -X- _ B-PER
+makan -X- _ O
+bakso -X- _ B-FOOD
+di -X- _ O
+kantin -X- _ O
+kampus -X- _ O
+
+pak -X- _ O
+dedi -X- _ B-PER
+adalah -X- _ O
+dosen -X- _ O
+universitas -X- _ B-ORG
+indonesia -X- _ I-ORG
+
+rina -X- _ B-PER
+membeli -X- _ O
+sate -X- _ B-FOOD
+ayam -X- _ I-FOOD
+di -X- _ O
+jalan -X- _ B-LOC
+malioboro -X- _ I-LOC
+
+saya -X- _ O
+akan -X- _ O
+ke -X- _ O
+bandung -X- _ B-LOC
+hari -X- _ O
+jumat -X- _ B-DATE
+
+kantor -X- _ O
+telkom -X- _ B-ORG
+indonesia -X- _ I-ORG
+berada -X- _ O
+di -X- _ O
+medan -X- _ B-LOC
+
+acara -X- _ O
+dimulai -X- _ O
+pukul -X- _ O
+08 -X- _ B-TIME
+30 -X- _ I-TIME
+pagi -X- _ I-TIME
+
+tanggal -X- _ O
+17 -X- _ B-DATE
+agustus -X- _ I-DATE
+adalah -X- _ O
+hari -X- _ B-MISC
+kemerdekaan -X- _ I-MISC
+indonesia -X- _ I-MISC
+
+toni -X- _ B-PER
+kuliah -X- _ O
+di -X- _ O
+its -X- _ B-ORG
+surabaya -X- _ B-LOC
+
+makan -X- _ O
+malam -X- _ B-TIME
+bersama -X- _ O
+bu -X- _ B-PER
+sari -X- _ I-PER
+di -X- _ O
+restoran -X- _ O
+padang -X- _ B-LOC
+
+kami -X- _ O
+liburan -X- _ O
+ke -X- _ O
+bali -X- _ B-LOC
+akhir -X- _ O
+tahun -X- _ B-DATE
+lalu -X- _ I-DATE
+
+sidang -X- _ O
+akan -X- _ O
+dilaksanakan -X- _ O
+senin -X- _ B-DATE
+depan -X- _ O
+pukul -X- _ O
+14 -X- _ B-TIME
+00 -X- _ I-TIME
+
+ahmad -X- _ B-PER
+membeli -X- _ O
+nasi -X- _ B-FOOD
+goreng -X- _ I-FOOD
+di -X- _ O
+warung -X- _ O
+dekat -X- _ O
+rumah -X- _ O
+
+telkomsel -X- _ B-ORG
+mengadakan -X- _ O
+promosi -X- _ O
+besar -X- _ O
+bulan -X- _ B-DATE
+ini -X- _ I-DATE
+
+rizky -X- _ B-PER
+naik -X- _ O
+kereta -X- _ O
+dari -X- _ O
+yogyakarta -X- _ B-LOC
+ke -X- _ O
+semarang -X- _ B-LOC
+
+rapat -X- _ O
+bersama -X- _ O
+tim -X- _ O
+google -X- _ B-ORG
+diadakan -X- _ O
+di -X- _ O
+jakarta -X- _ B-LOC
+
+tanggal -X- _ O
+25 -X- _ B-DATE
+desember -X- _ I-DATE
+adalah -X- _ O
+hari -X- _ B-MISC
+natal -X- _ I-MISC
+
+jam -X- _ O
+pelajaran -X- _ O
+pertama -X- _ O
+dimulai -X- _ O
+pukul -X- _ O
+07 -X- _ B-TIME
+00 -X- _ I-TIME
+
+nasi -X- _ B-FOOD
+uduk -X- _ I-FOOD
+dan -X- _ O
+telur -X- _ B-FOOD
+balado -X- _ I-FOOD
+disajikan -X- _ O
+pagi -X- _ B-TIME
+ini -X- _ I-TIME
+
+ibu -X- _ O
+lilis -X- _ B-PER
+bekerja -X- _ O
+di -X- _ O
+rumah -X- _ B-ORG
+sakit -X- _ I-ORG
+siloam -X- _ B-LOC
+
+ujian -X- _ O
+akan -X- _ O
+dilaksanakan -X- _ O
+pada -X- _ O
+10 -X- _ B-DATE
+mei -X- _ I-DATE
+
+adi -X- _ B-PER
+memesan -X- _ O
+ayam -X- _ B-FOOD
+geprek -X- _ I-FOOD
+di -X- _ O
+gofood -X- _ B-ORG
+
+kami -X- _ O
+bertemu -X- _ O
+andi -X- _ B-PER
+di -X- _ O
+bandung -X- _ B-LOC
+pada -X- _ O
+minggu -X- _ B-DATE
+
+kantor -X- _ O
+grab -X- _ B-ORG
+pindah -X- _ O
+ke -X- _ O
+menara -X- _ B-LOC
+astra -X- _ I-LOC
+
+saya -X- _ O
+bertugas -X- _ O
+di -X- _ O
+ambon -X- _ B-LOC
+selama -X- _ O
+1 -X- _ B-DATE
+bulan -X- _ I-DATE
+
+aldi -X- _ B-PER
+belajar -X- _ O
+di -X- _ O
+sma -X- _ B-ORG
+negeri -X- _ I-ORG
+1 -X- _ I-ORG
+bandung -X- _ B-LOC
+
+bapak -X- _ O
+presiden -X- _ B-PER
+akan -X- _ O
+berpidato -X- _ O
+pukul -X- _ O
+09 -X- _ B-TIME
+00 -X- _ I-TIME
+
+nita -X- _ B-PER
+dan -X- _ O
+roni -X- _ B-PER
+makan -X- _ O
+siang -X- _ B-TIME
+di -X- _ O
+mcdonald -X- _ B-ORG
+s -X- _ I-ORG
+
+project -X- _ O
+dilaporkan -X- _ O
+ke -X- _ O
+dinas -X- _ B-ORG
+kesehatan -X- _ I-ORG
+surabaya -X- _ B-LOC
+
+pelatihan -X- _ O
+dari -X- _ O
+microsoft -X- _ B-ORG
+akan -X- _ O
+berlangsung -X- _ O
+jumat -X- _ B-DATE
+ini -X- _ I-DATE
+
+ia -X- _ O
+membeli -X- _ O
+mie -X- _ B-FOOD
+ayam -X- _ I-FOOD
+pada -X- _ O
+pukul -X- _ O
+12 -X- _ B-TIME
+00 -X- _ I-TIME
+siang -X- _ I-TIME
+
+universitas -X- _ B-ORG
+airlangga -X- _ I-ORG
+mengadakan -X- _ O
+seminar -X- _ B-MISC
+daring -X- _ I-MISC
+
+kami -X- _ O
+ke -X- _ O
+rumah -X- _ O
+pak -X- _ O
+joko -X- _ B-PER
+di -X- _ O
+solo -X- _ B-LOC
+
+vaksinasi -X- _ B-MISC
+dilakukan -X- _ O
+di -X- _ O
+rsud -X- _ B-ORG
+dr -X- _ I-ORG
+soetomo -X- _ I-ORG
+
+saya -X- _ O
+suka -X- _ O
+rendang -X- _ B-FOOD
+dan -X- _ O
+gulai -X- _ B-FOOD
+ayam -X- _ I-FOOD
+
+hari -X- _ B-TIME
+ini -X- _ I-TIME
+cuaca -X- _ O
+di -X- _ O
+bogor -X- _ B-LOC
+sangat -X- _ O
+cerah -X- _ O
+
+farhan -X- _ B-PER
+pulang -X- _ O
+kampung -X- _ O
+ke -X- _ O
+padang -X- _ B-LOC
+
+ulang -X- _ B-MISC
+tahun -X- _ I-MISC
+aisyah -X- _ B-PER
+jatuh -X- _ O
+pada -X- _ O
+3 -X- _ B-DATE
+april -X- _ I-DATE
+
+kantor -X- _ O
+pln -X- _ B-ORG
+akan -X- _ O
+tutup -X- _ O
+pada -X- _ O
+hari -X- _ B-DATE
+sabtu -X- _ I-DATE
+
+pak -X- _ O
+bambang -X- _ B-PER
+memesan -X- _ O
+gado -X- _ B-FOOD
+gado -X- _ I-FOOD
+untuk -X- _ O
+makan -X- _ B-MISC
+siang -X- _ I-MISC
+
+acara -X- _ B-MISC
+kpu -X- _ I-MISC
+berlangsung -X- _ O
+di -X- _ O
+hotel -X- _ B-ORG
+sahid -X- _ I-ORG
+
+sari -X- _ B-PER
+menonton -X- _ O
+konser -X- _ B-MISC
+dewa -X- _ I-MISC
+19 -X- _ I-MISC
+di -X- _ O
+jakarta -X- _ B-LOC
+
+pesawat -X- _ O
+berangkat -X- _ O
+pukul -X- _ O
+05 -X- _ B-TIME
+45 -X- _ I-TIME
+dari -X- _ O
+bandara -X- _ B-ORG
+soekarno -X- _ I-ORG
+hatta -X- _ I-ORG
+
+kami -X- _ O
+ke -X- _ O
+bandung -X- _ B-LOC
+menggunakan -X- _ O
+mobil -X- _ O
+pada -X- _ O
+malam -X- _ B-TIME
+hari -X- _ I-TIME
+
+gibran -X- _ B-PER
+akan -X- _ O
+menghadiri -X- _ O
+acara -X- _ B-MISC
+bersama -X- _ O
+presiden -X- _ B-PER
+
+mereka -X- _ O
+makan -X- _ O
+soto -X- _ B-FOOD
+ayam -X- _ I-FOOD
+dan -X- _ O
+es -X- _ B-FOOD
+teh -X- _ I-FOOD
+manis -X- _ I-FOOD
+
+google -X- _ B-ORG
+membuka -X- _ O
+kantor -X- _ O
+baru -X- _ O
+di -X- _ O
+bali -X- _ B-LOC
+
+festival -X- _ B-MISC
+makanan -X- _ O
+akan -X- _ O
+digelar -X- _ O
+di -X- _ O
+taman -X- _ O
+mini -X- _ O
+indonesia -X- _ B-LOC
+indah -X- _ O
+
+ilham -X- _ B-PER
+belajar -X- _ O
+di -X- _ O
+universitas -X- _ B-ORG
+gadjah -X- _ I-ORG
+mada -X- _ I-ORG
+
+tasya -X- _ B-PER
+berangkat -X- _ O
+dari -X- _ O
+malang -X- _ B-LOC
+ke -X- _ O
+bali -X- _ B-LOC
+pada -X- _ O
+pagi -X- _ B-TIME
+hari -X- _ I-TIME
+
+sopir -X- _ O
+gojek -X- _ B-ORG
+menjemput -X- _ O
+lala -X- _ B-PER
+di -X- _ O
+depan -X- _ O
+indomaret -X- _ B-ORG
+
+pukul -X- _ O
+16 -X- _ B-TIME
+30 -X- _ I-TIME
+andi -X- _ B-PER
+tiba -X- _ O
+di -X- _ O
+stasiun -X- _ B-ORG
+gambir -X- _ B-LOC
+
+lilis -X- _ B-PER
+mengikuti -X- _ O
+seminar -X- _ B-MISC
+dari -X- _ O
+unicef -X- _ B-ORG
+tentang -X- _ O
+anak -X- _ O
+anak -X- _ O
+
+kami -X- _ O
+makan -X- _ O
+mie -X- _ B-FOOD
+aceh -X- _ B-LOC
+dan -X- _ O
+es -X- _ B-FOOD
+jeruk -X- _ I-FOOD
+di -X- _ O
+warung -X- _ B-ORG
+sebelah -X- _ O
+
+acara -X- _ B-MISC
+digelar -X- _ O
+oleh -X- _ O
+kementerian -X- _ B-ORG
+pendidikan -X- _ I-ORG
+dan -X- _ O
+kebudayaan -X- _ O
+
+nico -X- _ B-PER
+tinggal -X- _ O
+di -X- _ O
+makassar -X- _ B-LOC
+sejak -X- _ O
+tahun -X- _ O
+2015 -X- _ B-DATE
+
+rapat -X- _ O
+zoom -X- _ O
+dimulai -X- _ O
+pada -X- _ O
+pukul -X- _ O
+10 -X- _ B-TIME
+15 -X- _ I-TIME
+wib -X- _ O
+
+pendaftaran -X- _ O
+dibuka -X- _ O
+mulai -X- _ O
+5 -X- _ B-DATE
+juni -X- _ I-DATE
+hingga -X- _ O
+30 -X- _ B-DATE
+juni -X- _ I-DATE
+
+putu -X- _ B-PER
+membeli -X- _ O
+pisang -X- _ B-FOOD
+goreng -X- _ I-FOOD
+di -X- _ O
+pasar -X- _ B-ORG
+
+mereka -X- _ O
+mengunjungi -X- _ O
+monumen -X- _ B-ORG
+nasional -X- _ I-ORG
+pada -X- _ O
+liburan -X- _ O
+kemarin -X- _ O
+
+restoran -X- _ B-ORG
+sushi -X- _ I-ORG
+tei -X- _ I-ORG
+ramai -X- _ O
+pengunjung -X- _ O
+saat -X- _ O
+akhir -X- _ O
+pekan -X- _ O
+
+alya -X- _ B-PER
+lahir -X- _ O
+di -X- _ O
+rs -X- _ B-ORG
+mitra -X- _ I-ORG
+keluarga -X- _ I-ORG
+
+lomba -X- _ O
+diadakan -X- _ O
+oleh -X- _ O
+dinas -X- _ B-ORG
+pemuda -X- _ I-ORG
+dan -X- _ O
+olahraga -X- _ O
+
+reno -X- _ B-PER
+memesan -X- _ O
+ayam -X- _ B-FOOD
+penyet -X- _ I-FOOD
+dan -X- _ O
+jus -X- _ B-FOOD
+alpukat -X- _ I-FOOD
+
+kelas -X- _ O
+daring -X- _ O
+dimulai -X- _ O
+pukul -X- _ O
+08 -X- _ B-TIME
+00 -X- _ I-TIME
+dengan -X- _ O
+google -X- _ B-ORG
+meet -X- _ O
+
+anisa -X- _ B-PER
+bekerja -X- _ O
+sebagai -X- _ O
+perawat -X- _ O
+di -X- _ O
+rsud -X- _ B-ORG
+bandung -X- _ I-ORG
+
+turnamen -X- _ B-MISC
+mobile -X- _ O
+legends -X- _ O
+diadakan -X- _ O
+oleh -X- _ O
+esi -X- _ O
+jakarta -X- _ B-LOC
+
+film -X- _ O
+diputar -X- _ O
+di -X- _ O
+xxi -X- _ B-ORG
+mall -X- _ I-ORG
+ciputra -X- _ I-ORG
+
+feri -X- _ B-PER
+kembali -X- _ O
+ke -X- _ O
+kampung -X- _ O
+halamannya -X- _ O
+di -X- _ O
+pekalongan -X- _ B-LOC
+
+seminar -X- _ B-MISC
+microsoft -X- _ B-ORG
+berlangsung -X- _ O
+secara -X- _ O
+daring -X- _ O
+via -X- _ O
+zoom -X- _ O
+
+irma -X- _ B-PER
+membeli -X- _ O
+baju -X- _ O
+baru -X- _ O
+di -X- _ O
+tokopedia -X- _ B-ORG
+
+konser -X- _ B-MISC
+sheila -X- _ I-MISC
+on -X- _ I-MISC
+7 -X- _ I-MISC
+digelar -X- _ O
+di -X- _ O
+yogyakarta -X- _ B-LOC
+
+erik -X- _ B-PER
+dan -X- _ O
+dani -X- _ B-PER
+main -X- _ O
+bola -X- _ O
+di -X- _ O
+lapangan -X- _ B-ORG
+sekolah -X- _ I-ORG
+
+jalan -X- _ B-LOC
+braga -X- _ I-LOC
+di -X- _ O
+bandung -X- _ B-LOC
+selalu -X- _ O
+ramai -X- _ O
+saat -X- _ O
+malam -X- _ O
+
+natal -X- _ B-MISC
+tahun -X- _ O
+ini -X- _ O
+jatuh -X- _ O
+pada -X- _ O
+hari -X- _ O
+minggu -X- _ B-DATE
+
+acara -X- _ B-MISC
+dimulai -X- _ O
+pada -X- _ O
+pukul -X- _ O
+19 -X- _ B-TIME
+00 -X- _ I-TIME
+wib -X- _ O
+tepat -X- _ O
+
+proyek -X- _ O
+pembangunan -X- _ O
+dibiayai -X- _ O
+oleh -X- _ O
+bank -X- _ B-ORG
+dunia -X- _ I-ORG
+
+bella -X- _ B-PER
+memesan -X- _ O
+tahu -X- _ B-FOOD
+campur -X- _ I-FOOD
+dan -X- _ O
+teh -X- _ B-FOOD
+hangat -X- _ I-FOOD
+
+kantor -X- _ O
+kpk -X- _ B-ORG
+terletak -X- _ O
+di -X- _ O
+jakarta -X- _ B-LOC
+selatan -X- _ I-LOC
+
+jadwal -X- _ O
+kereta -X- _ O
+menuju -X- _ O
+bogor -X- _ B-LOC
+mengalami -X- _ O
+keterlambatan -X- _ O
+
+bima -X- _ B-PER
+memesan -X- _ O
+rawon -X- _ B-FOOD
+dan -X- _ O
+kerupuk -X- _ B-FOOD
+udang -X- _ I-FOOD
+
+program -X- _ O
+vaksinasi -X- _ B-MISC
+dimulai -X- _ O
+pada -X- _ O
+awal -X- _ O
+maret -X- _ B-DATE
+
+surat -X- _ O
+dikirim -X- _ O
+oleh -X- _ O
+pt -X- _ B-ORG
+pos -X- _ I-ORG
+indonesia -X- _ I-ORG
+
+kafe -X- _ B-ORG
+kopi -X- _ I-ORG
+kenangan -X- _ I-ORG
+buka -X- _ O
+sampai -X- _ O
+pukul -X- _ O
+23 -X- _ B-TIME
+00 -X- _ I-TIME
+
+dokter -X- _ O
+andhika -X- _ B-PER
+praktek -X- _ O
+di -X- _ O
+rsud -X- _ B-ORG
+sleman -X- _ B-LOC
+
+kirana -X- _ B-PER
+naik -X- _ O
+mrt -X- _ O
+dari -X- _ O
+lebak -X- _ B-LOC
+bulus -X- _ I-LOC
+ke -X- _ O
+bundaran -X- _ B-LOC
+hi -X- _ I-LOC
+
+ali -X- _ B-PER
+ikut -X- _ O
+lomba -X- _ O
+cerdas -X- _ O
+cermat -X- _ O
+di -X- _ O
+sekolah -X- _ O
+
+peserta -X- _ O
+tiba -X- _ O
+di -X- _ O
+tempat -X- _ O
+acara -X- _ O
+pada -X- _ O
+jam -X- _ O
+07 -X- _ B-TIME
+45 -X- _ I-TIME
+
+bandara -X- _ B-ORG
+juanda -X- _ I-ORG
+menjadi -X- _ O
+lokasi -X- _ O
+tes -X- _ O
+pcr -X- _ B-MISC
+massal -X- _ I-MISC
+
+dia -X- _ O
+membeli -X- _ O
+nasi -X- _ B-FOOD
+bebek -X- _ I-FOOD
+dan -X- _ O
+es -X- _ B-FOOD
+campur -X- _ I-FOOD
+
+workshop -X- _ B-MISC
+flutter -X- _ O
+diselenggarakan -X- _ O
+oleh -X- _ O
+google -X- _ B-ORG
+developers -X- _ O
+
+hari -X- _ O
+buruh -X- _ O
+internasional -X- _ O
+diperingati -X- _ O
+setiap -X- _ O
+1 -X- _ B-DATE
+mei -X- _ I-DATE
+
+pak -X- _ O
+rahmat -X- _ B-PER
+memberi -X- _ O
+kuliah -X- _ O
+tentang -X- _ O
+ekonomi -X- _ O
+digital -X- _ O
+
+feri -X- _ B-PER
+naik -X- _ O
+bus -X- _ O
+dari -X- _ O
+terminal -X- _ B-ORG
+bungurasih -X- _ B-LOC
+
+lina -X- _ B-PER
+dan -X- _ O
+riko -X- _ B-PER
+makan -X- _ O
+martabak -X- _ B-FOOD
+dan -X- _ O
+jus -X- _ B-FOOD
+mangga -X- _ I-FOOD
+
+andin -X- _ B-PER
+berangkat -X- _ O
+ke -X- _ O
+surabaya -X- _ B-LOC
+bersama -X- _ O
+ayahnya -X- _ O
+pukul -X- _ O
+07 -X- _ B-TIME
+00 -X- _ I-TIME
+
+festival -X- _ B-MISC
+jazz -X- _ O
+internasional -X- _ O
+digelar -X- _ O
+di -X- _ O
+candi -X- _ B-LOC
+prambanan -X- _ I-LOC
+
+joko -X- _ B-PER
+widodo -X- _ I-PER
+menghadiri -X- _ O
+rapat -X- _ O
+kabinet -X- _ O
+di -X- _ O
+istana -X- _ B-ORG
+negara -X- _ I-ORG
+
+dina -X- _ B-PER
+membeli -X- _ O
+es -X- _ B-FOOD
+krim -X- _ I-FOOD
+dan -X- _ O
+donat -X- _ B-FOOD
+di -X- _ O
+minimarket -X- _ B-ORG
+
+bank -X- _ B-ORG
+bri -X- _ O
+membuka -X- _ O
+layanan -X- _ O
+di -X- _ O
+pusat -X- _ O
+perbelanjaan -X- _ O
+solo -X- _ B-LOC
+grand -X- _ B-ORG
+mall -X- _ I-ORG
+
+rita -X- _ B-PER
+menginap -X- _ O
+di -X- _ O
+hotel -X- _ B-ORG
+santika -X- _ I-ORG
+selama -X- _ O
+liburan -X- _ O
+
+jadwal -X- _ O
+vaksinasi -X- _ B-MISC
+ulang -X- _ O
+diumumkan -X- _ O
+oleh -X- _ O
+dinas -X- _ B-ORG
+kesehatan -X- _ I-ORG
+jakarta -X- _ B-LOC
+
+kami -X- _ O
+pergi -X- _ O
+ke -X- _ O
+ancol -X- _ B-LOC
+untuk -X- _ O
+merayakan -X- _ O
+ulang -X- _ O
+tahun -X- _ O
+tyo -X- _ B-PER
+
+dosen -X- _ O
+dari -X- _ O
+universitas -X- _ B-ORG
+negeri -X- _ I-ORG
+malang -X- _ B-LOC
+memberikan -X- _ O
+pelatihan -X- _ O
+di -X- _ O
+bali -X- _ B-LOC
+
+nelayan -X- _ O
+di -X- _ O
+pantai -X- _ O
+glagah -X- _ B-LOC
+mengalami -X- _ O
+kenaikan -X- _ O
+hasil -X- _ O
+tangkapan -X- _ O
+
+benny -X- _ B-ORG
+menonton -X- _ O
+pertandingan -X- _ O
+persija -X- _ B-ORG
+di -X- _ O
+stadion -X- _ B-ORG
+utama -X- _ I-ORG
+gbk -X- _ I-ORG
+
+kami -X- _ O
+belajar -X- _ O
+daring -X- _ O
+melalui -X- _ O
+zoom -X- _ O
+pukul -X- _ O
+09 -X- _ B-TIME
+00 -X- _ I-TIME
+
+mereka -X- _ O
+makan -X- _ O
+pempek -X- _ B-FOOD
+dan -X- _ O
+es -X- _ B-FOOD
+kacang -X- _ I-FOOD
+merah -X- _ I-FOOD
+di -X- _ O
+palembang -X- _ B-LOC
+
+rapat -X- _ O
+bulanan -X- _ O
+berlangsung -X- _ O
+di -X- _ O
+gedung -X- _ B-ORG
+dprd -X- _ I-ORG
+semarang -X- _ B-LOC
+
+toko -X- _ O
+baju -X- _ O
+online -X- _ O
+milik -X- _ O
+sarah -X- _ B-PER
+mendapat -X- _ O
+banyak -X- _ O
+pesanan -X- _ O
+
+acara -X- _ B-LOC
+car -X- _ I-LOC
+free -X- _ I-LOC
+day -X- _ I-LOC
+dibatalkan -X- _ O
+karena -X- _ O
+hujan -X- _ O
+deras -X- _ O
+
+dokter -X- _ O
+eka -X- _ B-PER
+bertugas -X- _ O
+di -X- _ O
+rumah -X- _ B-ORG
+sakit -X- _ I-ORG
+islam -X- _ I-ORG
+surabaya -X- _ B-LOC
+
+reza -X- _ B-PER
+memesan -X- _ O
+mie -X- _ B-FOOD
+goreng -X- _ I-FOOD
+dan -X- _ O
+air -X- _ B-FOOD
+mineral -X- _ I-FOOD
+di -X- _ O
+kantin -X- _ B-ORG
+
+turnamen -X- _ O
+basket -X- _ O
+antar -X- _ O
+fakultas -X- _ O
+digelar -X- _ O
+sabtu -X- _ B-DATE
+depan -X- _ O
+
+bus -X- _ O
+transjakarta -X- _ O
+berhenti -X- _ O
+di -X- _ O
+halte -X- _ B-LOC
+monas -X- _ I-LOC
+
+wali -X- _ B-PER
+kota -X- _ I-PER
+solo -X- _ B-LOC
+meresmikan -X- _ O
+taman -X- _ O
+baru -X- _ O
+
+film -X- _ O
+dokumenter -X- _ O
+tentang -X- _ O
+papua -X- _ B-LOC
+ditayangkan -X- _ O
+di -X- _ O
+netflix -X- _ B-ORG
+
+pelatihan -X- _ B-MISC
+ui -X- _ I-MISC
+ux -X- _ I-MISC
+diadakan -X- _ O
+oleh -X- _ O
+tokopedia -X- _ B-ORG
+academy -X- _ O
+
+pengiriman -X- _ O
+barang -X- _ O
+dilakukan -X- _ O
+oleh -X- _ O
+jne -X- _ B-ORG
+express -X- _ I-ORG
+
+rani -X- _ B-PER
+belajar -X- _ O
+memasak -X- _ O
+rendang -X- _ B-FOOD
+bersama -X- _ O
+ibunya -X- _ O
+
+pesawat -X- _ O
+garuda -X- _ O
+mendarat -X- _ O
+di -X- _ O
+bandara -X- _ B-ORG
+ngurah -X- _ B-LOC
+rai -X- _ I-LOC
+pukul -X- _ O
+11 -X- _ B-TIME
+45 -X- _ I-TIME
+
+pak -X- _ O
+anwar -X- _ B-PER
+bekerja -X- _ O
+di -X- _ O
+dinas -X- _ B-ORG
+perhubungan -X- _ I-ORG
+jawa -X- _ B-LOC
+barat -X- _ I-LOC
+
+proyek -X- _ O
+jalan -X- _ O
+tol -X- _ O
+jakarta -X- _ B-LOC
+bandung -X- _ B-LOC
+dibiayai -X- _ O
+pemerintah -X- _ O
+
+kami -X- _ O
+menonton -X- _ O
+wayang -X- _ O
+kulit -X- _ O
+di -X- _ O
+alun -X- _ O
+alun -X- _ O
+yogyakarta -X- _ B-LOC
+
+restoran -X- _ O
+bebek -X- _ B-FOOD
+kaleyo -X- _ I-FOOD
+buka -X- _ O
+cabang -X- _ O
+baru -X- _ O
+di -X- _ O
+bekasi -X- _ B-LOC
+
+lutfi -X- _ B-PER
+menyumbangkan -X- _ O
+buku -X- _ O
+ke -X- _ O
+perpustakaan -X- _ B-ORG
+kota -X- _ O
+semarang -X- _ B-LOC
+
+pameran -X- _ B-MISC
+buku -X- _ O
+gramedia -X- _ B-ORG
+berlangsung -X- _ O
+hingga -X- _ O
+30 -X- _ B-DATE
+juli -X- _ I-DATE
+
+indah -X- _ B-PER
+mengunjungi -X- _ O
+rumah -X- _ O
+neneknya -X- _ B-PER
+di -X- _ O
+tegal -X- _ B-LOC
+
+zahra -X- _ B-PER
+membeli -X- _ O
+gorengan -X- _ B-FOOD
+dan -X- _ O
+teh -X- _ B-FOOD
+manis -X- _ I-FOOD
+di -X- _ O
+warung -X- _ B-ORG
+depan -X- _ O
+
+konferensi -X- _ B-MISC
+g20 -X- _ O
+diselenggarakan -X- _ O
+di -X- _ O
+bali -X- _ B-LOC
+tahun -X- _ O
+ini -X- _ O
+
+ujian -X- _ O
+masuk -X- _ O
+perguruan -X- _ B-ORG
+tinggi -X- _ I-ORG
+dilakukan -X- _ O
+pada -X- _ O
+bulan -X- _ O
+mei -X- _ B-DATE
+
+minuman -X- _ O
+favorit -X- _ O
+rudi -X- _ B-PER
+adalah -X- _ O
+es -X- _ B-FOOD
+kopi -X- _ I-FOOD
+susu -X- _ I-FOOD
+
+irfan -X- _ B-PER
+dan -X- _ O
+dini -X- _ B-PER
+menonton -X- _ O
+konser -X- _ B-MISC
+di -X- _ O
+senayan -X- _ B-LOC
+city -X- _ O
+
+kelas -X- _ O
+bahasa -X- _ O
+jepang -X- _ B-LOC
+diadakan -X- _ O
+setiap -X- _ O
+jumat -X- _ B-DATE
+sore -X- _ B-TIME
+
+jne -X- _ B-ORG
+terlambat -X- _ O
+mengirim -X- _ O
+paket -X- _ O
+ke -X- _ O
+alamat -X- _ O
+di -X- _ O
+surabaya -X- _ B-LOC
+
+telkom -X- _ B-ORG
+membuka -X- _ O
+lowongan -X- _ O
+kerja -X- _ O
+untuk -X- _ O
+fresh -X- _ O
+graduate -X- _ O
+
+pt -X- _ B-ORG
+astra -X- _ I-ORG
+internasional -X- _ O
+mengadakan -X- _ O
+pelatihan -X- _ O
+karyawan -X- _ O
+
+rita -X- _ B-PER
+mengikuti -X- _ O
+webinar -X- _ O
+tentang -X- _ O
+digital -X- _ O
+marketing -X- _ O
+
+vino -X- _ B-PER
+menyukai -X- _ O
+nasi -X- _ B-FOOD
+liwet -X- _ I-FOOD
+dan -X- _ O
+ayam -X- _ B-FOOD
+bakar -X- _ I-FOOD
+
+dia -X- _ O
+memesan -X- _ O
+makanan -X- _ O
+dari -X- _ O
+grabfood -X- _ B-ORG
+pukul -X- _ O
+18 -X- _ B-TIME
+00 -X- _ I-TIME
+
+acara -X- _ B-MISC
+maulid -X- _ O
+nabi -X- _ O
+digelar -X- _ O
+di -X- _ O
+masjid -X- _ B-ORG
+istiqlal -X- _ I-ORG
+
+penelitian -X- _ O
+dilakukan -X- _ O
+oleh -X- _ O
+mahasiswa -X- _ B-PER
+universitas -X- _ B-ORG
+padjadjaran -X- _ I-ORG
+
+kami -X- _ O
+mendaki -X- _ O
+gunung -X- _ O
+bromo -X- _ B-LOC
+saat -X- _ O
+libur -X- _ O
+semester -X- _ O
+
+banjir -X- _ O
+terjadi -X- _ O
+di -X- _ O
+kalimantan -X- _ B-LOC
+tengah -X- _ I-LOC
+minggu -X- _ B-TIME
+lalu -X- _ I-TIME
+
+lia -X- _ B-PER
+dan -X- _ O
+rendi -X- _ B-PER
+pergi -X- _ O
+ke -X- _ O
+bioskop -X- _ B-LOC
+xxi -X- _ I-LOC
+usai -X- _ O
+makan -X- _ O
+malam -X- _ O
+
+restoran -X- _ B-ORG
+seafood -X- _ I-ORG
+di -X- _ O
+pantai -X- _ O
+losari -X- _ B-LOC
+sangat -X- _ O
+terkenal -X- _ O
+
+waktu -X- _ O
+sholat -X- _ O
+maghrib -X- _ O
+masuk -X- _ O
+pukul -X- _ O
+18 -X- _ B-TIME
+12 -X- _ I-TIME
+wib -X- _ O
+
+pak -X- _ O
+hasan -X- _ B-PER
+mengajar -X- _ O
+sejarah -X- _ O
+di -X- _ O
+sma -X- _ B-ORG
+negeri -X- _ I-ORG
+3 -X- _ I-ORG
+bogor -X- _ B-LOC
+
+susi -X- _ B-PER
+membeli -X- _ O
+lotek -X- _ B-FOOD
+dan -X- _ O
+kolak -X- _ B-FOOD
+pisang -X- _ I-FOOD
+di -X- _ O
+pasar -X- _ B-ORG
+
+pt -X- _ B-ORG
+kai -X- _ I-ORG
+menambah -X- _ O
+jadwal -X- _ O
+perjalanan -X- _ O
+selama -X- _ O
+libur -X- _ O
+lebaran -X- _ O
+
+rektor -X- _ B-PER
+universitas -X- _ B-ORG
+andalas -X- _ I-ORG
+memberikan -X- _ O
+sambutan -X- _ O
+pembukaan -X- _ O
+
+mereka -X- _ O
+sarapan -X- _ O
+bubur -X- _ B-FOOD
+ayam -X- _ I-FOOD
+dan -X- _ O
+teh -X- _ B-FOOD
+tawar -X- _ I-FOOD
+
+penyanyi -X- _ O
+raisa -X- _ B-PER
+tampil -X- _ O
+di -X- _ O
+acara -X- _ O
+hut -X- _ O
+trans -X- _ B-ORG
+tv -X- _ I-ORG
+
+kelas -X- _ O
+informatika -X- _ O
+menggunakan -X- _ O
+platform -X- _ O
+google -X- _ B-ORG
+classroom -X- _ O
+
+dinas -X- _ B-ORG
+pariwisata -X- _ I-ORG
+mengadakan -X- _ O
+lomba -X- _ B-MISC
+vlog -X- _ I-MISC
+wisata -X- _ I-MISC
+
+mobil -X- _ O
+presiden -X- _ B-PER
+melewati -X- _ O
+jalan -X- _ B-LOC
+sudirman -X- _ I-LOC
+pagi -X- _ O
+ini -X- _ O
+
+mereka -X- _ O
+membeli -X- _ O
+tiket -X- _ O
+bioskop -X- _ O
+lewat -X- _ O
+tix -X- _ B-ORG
+id -X- _ I-ORG
+
+nurul -X- _ B-PER
+menghadiri -X- _ O
+wisuda -X- _ O
+kakaknya -X- _ O
+di -X- _ O
+jakarta -X- _ B-LOC
+
+rute -X- _ O
+baru -X- _ O
+transjogja -X- _ B-LOC
+menghubungkan -X- _ O
+kampus -X- _ B-ORG
+dan -X- _ O
+terminal -X- _ B-ORG
+
+ikan -X- _ B-FOOD
+bakar -X- _ I-FOOD
+dan -X- _ O
+sambal -X- _ B-FOOD
+dabu -X- _ I-FOOD
+dabu -X- _ I-FOOD
+menjadi -X- _ O
+favorit -X- _ O
+wisatawan -X- _ O
+
+pemerintah -X- _ O
+mengadakan -X- _ O
+bazar -X- _ B-MISC
+umkm -X- _ O
+di -X- _ O
+lapangan -X- _ B-LOC
+banteng -X- _ I-LOC
+
+pemadaman -X- _ O
+listrik -X- _ O
+terjadi -X- _ O
+di -X- _ O
+medan -X- _ B-LOC
+sejak -X- _ O
+dini -X- _ O
+hari -X- _ O
+
+karyawan -X- _ O
+google -X- _ B-ORG
+indonesia -X- _ B-LOC
+bekerja -X- _ O
+dari -X- _ O
+rumah -X- _ O
+selama -X- _ O
+pandemi -X- _ O
+
+tari -X- _ O
+tradisional -X- _ O
+bali -X- _ B-LOC
+dipentaskan -X- _ O
+di -X- _ O
+museum -X- _ B-ORG
+seni -X- _ O
+
+nilai -X- _ O
+ujian -X- _ O
+akhir -X- _ O
+akan -X- _ O
+diumumkan -X- _ O
+jumat -X- _ B-DATE
+depan -X- _ O
+
+syifa -X- _ B-PER
+dan -X- _ O
+tegar -X- _ B-PER
+memesan -X- _ O
+pizza -X- _ B-FOOD
+di -X- _ O
+domino -X- _ B-ORG
+s -X- _ I-ORG
+
+mereka -X- _ O
+berangkat -X- _ O
+ke -X- _ O
+purwokerto -X- _ B-LOC
+dengan -X- _ O
+bus -X- _ O
+malam -X- _ O
+
+ayam -X- _ B-FOOD
+goreng -X- _ I-FOOD
+dan -X- _ O
+nasi -X- _ B-FOOD
+putih -X- _ I-FOOD
+menjadi -X- _ O
+menu -X- _ O
+makan -X- _ O
+siang -X- _ O
+
+mahasiswa -X- _ B-PER
+magang -X- _ O
+di -X- _ O
+tokopedia -X- _ B-ORG
+selama -X- _ O
+3 -X- _ B-DATE
+bulan -X- _ I-DATE
+
+kegiatan -X- _ B-MISC
+donor -X- _ I-MISC
+darah -X- _ I-MISC
+diadakan -X- _ O
+di -X- _ O
+aula -X- _ O
+kampus -X- _ B-ORG
+
+warga -X- _ O
+membersihkan -X- _ B-MISC
+sungai -X- _ O
+di -X- _ O
+kelurahan -X- _ B-LOC
+karet -X- _ I-LOC
+
+pemilu -X- _ O
+legislatif -X- _ O
+akan -X- _ O
+digelar -X- _ O
+februari -X- _ B-DATE
+mendatang -X- _ O
+
+pekerja -X- _ O
+pltu -X- _ O
+cirebon -X- _ B-LOC
+mendapat -X- _ O
+bonus -X- _ O
+tahunan -X- _ O
+
+rara -X- _ B-PER
+dan -X- _ O
+dani -X- _ B-PER
+bertunangan -X- _ O
+di -X- _ O
+hotel -X- _ B-ORG
+mewah -X- _ I-ORG
+di -X- _ O
+jakarta -X- _ B-LOC
+
+buku -X- _ O
+pelajaran -X- _ O
+baru -X- _ O
+diterbitkan -X- _ O
+oleh -X- _ O
+kemendikbud -X- _ B-ORG
+
+acara -X- _ B-MISC
+buka -X- _ I-MISC
+puasa -X- _ I-MISC
+bersama -X- _ O
+diadakan -X- _ O
+di -X- _ O
+rumah -X- _ O
+pak -X- _ B-PER
+lurah -X- _ I-PER
+
+mobil -X- _ O
+pemadam -X- _ O
+kebakaran -X- _ O
+datang -X- _ O
+ke -X- _ O
+jalan -X- _ B-LOC
+diponegoro -X- _ I-LOC
+
+ia -X- _ O
+membeli -X- _ O
+mie -X- _ B-FOOD
+instan -X- _ I-FOOD
+dan -X- _ O
+telur -X- _ B-FOOD
+di -X- _ O
+alfamart -X- _ B-ORG
+
+proses -X- _ O
+vaksinasi -X- _ B-MISC
+anak -X- _ O
+berlangsung -X- _ O
+di -X- _ O
+posyandu -X- _ B-ORG
+dahlia -X- _ I-ORG
+
+kegiatan -X- _ B-MISC
+menanam -X- _ I-MISC
+pohon -X- _ I-MISC
+dilakukan -X- _ O
+siswa -X- _ B-PER
+sd -X- _ B-ORG
+negeri -X- _ I-ORG
+2 -X- _ I-ORG
+
+mereka -X- _ O
+menyantap -X- _ O
+gulai -X- _ B-FOOD
+kambing -X- _ I-FOOD
+dan -X- _ O
+es -X- _ B-FOOD
+degan -X- _ I-FOOD
+
+bandara -X- _ B-ORG
+halim -X- _ I-ORG
+ditutup -X- _ O
+sementara -X- _ O
+untuk -X- _ O
+perbaikan -X- _ O
+
+pengendara -X- _ O
+ojek -X- _ O
+online -X- _ O
+mogok -X- _ O
+di -X- _ O
+depan -X- _ O
+balai -X- _ B-LOC
+kota -X- _ I-LOC
+
+wisatawan -X- _ O
+memadati -X- _ O
+kebun -X- _ B-LOC
+raya -X- _ I-LOC
+bogor -X- _ B-LOC
+pada -X- _ O
+akhir -X- _ O
+pekan -X- _ O
+
+dia -X- _ O
+pergi -X- _ O
+ke -X- _ O
+pasar -X- _ B-LOC
+senen -X- _ I-LOC
+membeli -X- _ O
+bahan -X- _ O
+kue -X- _ B-FOOD
+
+mahasiswa -X- _ B-PER
+ui -X- _ B-ORG
+melakukan -X- _ O
+demo -X- _ O
+di -X- _ O
+depan -X- _ O
+gedung -X- _ B-ORG
+dpr -X- _ I-ORG
+
+lomba -X- _ B-MISC
+foto -X- _ I-MISC
+diselenggarakan -X- _ I-MISC
+oleh -X- _ I-MISC
+komunitas -X- _ I-MISC
+pecinta -X- _ I-MISC
+alam -X- _ I-MISC
+
+dewi -X- _ B-PER
+menghadiri -X- _ O
+pelatihan -X- _ O
+kerja -X- _ O
+di -X- _ O
+balai -X- _ B-LOC
+latihan -X- _ I-LOC
+kerja -X- _ I-LOC
+
+pertandingan -X- _ B-MISC
+voli -X- _ I-MISC
+digelar -X- _ I-MISC
+di -X- _ O
+gor -X- _ B-ORG
+soemantri -X- _ I-ORG
+
+festival -X- _ B-MISC
+budaya -X- _ I-MISC
+digelar -X- _ I-MISC
+di -X- _ O
+alun -X- _ B-LOC
+alun -X- _ I-LOC
+kota -X- _ I-LOC
+batu -X- _ I-LOC
+
+kegiatan -X- _ O
+belajar -X- _ O
+mengajar -X- _ O
+kembali -X- _ O
+normal -X- _ O
+bulan -X- _ B-DATE
+depan -X- _ I-DATE
+
+anak -X- _ O
+anak -X- _ O
+bermain -X- _ O
+bola -X- _ O
+di -X- _ O
+lapangan -X- _ B-LOC
+merdeka -X- _ I-LOC
+
+pembukaan -X- _ O
+toko -X- _ O
+buku -X- _ O
+gramedia -X- _ B-ORG
+diresmikan -X- _ O
+oleh -X- _ O
+walikota -X- _ B-PER
+
+petugas -X- _ O
+bmkg -X- _ B-ORG
+mengumumkan -X- _ O
+peringatan -X- _ O
+dini -X- _ O
+tsunami -X- _ O
+
